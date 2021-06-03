@@ -1,0 +1,18 @@
+.prof{
+    display: block;
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+}
+#alert {
+    display: none;
+    background-color: rgb(255, 103, 103);
+    font-family: serif;
+    font-weight: 800;
+    text-align: center;
+    font-size: 15pt;
+    height: 50px;
+    width: 250px;
+    color: white;
+    margin:0 auto;
+}
